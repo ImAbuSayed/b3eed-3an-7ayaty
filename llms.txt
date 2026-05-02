@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا سحر الليل خذني نحوها
+> نار الشوق في روحي تبثها
+> أبحث في عينيها عن قدري
+> وحدها في دمي أتنفسها
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
