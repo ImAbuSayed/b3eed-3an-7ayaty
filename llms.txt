@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/b3eed-3an-7ayaty/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for B3eed 3an 7ayaty](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for B3eed 3an 7ayaty](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
